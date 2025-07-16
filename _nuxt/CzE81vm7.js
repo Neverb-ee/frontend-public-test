@@ -1,0 +1,1 @@
+import{aG as t,aA as o}from"./eXJil4r_.js";const l=()=>{const a=t("invalidIdToast",()=>!1);return{triggerInvalidIdToast:()=>{a.value=!0},checkAndShowInvalidIdToast:()=>{a.value&&(o().add({title:"Invalid ID",description:"The link you followed is not valid.",icon:"i-lucide-alert-triangle"}),a.value=!1)}}};export{l as u};

@@ -1,0 +1,1 @@
+import{b as a}from"./TLt_71GQ.js";import{_ as r}from"./6wG5Zud3.js";import{d as n,e as s,w as e,o as m,q as _}from"./D6PLukXX.js";import"./dCsOXzmg.js";import"./BssOXDAU.js";const b=n({__name:"credentials",setup(p){return(i,o)=>{const t=a;return m(),s(t,null,{header:e(()=>[_(r)]),body:e(()=>o[0]||(o[0]=[])),_:1})}}});export{b as default};

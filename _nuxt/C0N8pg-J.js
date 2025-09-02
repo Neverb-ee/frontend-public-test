@@ -1,1 +1,0 @@
-import{b4 as i,aS as o}from"./0guDz9_e.js";import{u as s}from"./BjG5VhOK.js";const l=i(a=>{const t=a.params.id;if(!(typeof t=="string"&&t.length==7&&/^[a-zA-Z0-9_-]+$/.test(t))){const{triggerInvalidIdToast:e}=s();return e(),o("/")}});export{l as default};

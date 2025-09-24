@@ -1,1 +1,0 @@
-import{b6 as t,a6 as o}from"./BlIjFL2F.js";const l=()=>{const a=t("invalidIdToast",()=>!1);return{triggerInvalidIdToast:()=>{a.value=!0},checkAndShowInvalidIdToast:()=>{a.value&&(o().add({title:"Invalid ID",description:"The link you followed is not valid.",icon:"i-lucide-alert-triangle"}),a.value=!1)}}};export{l as u};
